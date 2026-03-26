@@ -115,14 +115,6 @@ fun_fact: I built an AI that reads emotions — now it knows when I'm frustrated
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashankGanapatiNaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
 ## 📜 Certifications
 
 <div align="center">
