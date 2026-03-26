@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashanknaik6226-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashanknaik6226)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashanknaik6226-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-naik-6b449428a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-bay-eta.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-shashankng626@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankng626@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ShashankGanapatiNaik?style=for-the-badge&logo=github&color=24243e&labelColor=302b63)](https://github.com/ShashankGanapatiNaik)
 
