@@ -128,14 +128,6 @@ fun_fact: I built an AI that reads emotions — now it knows when I'm frustrated
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankGanapatiNaik&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ## 💡 A Random Dev Quote
 
 <div align="center">
